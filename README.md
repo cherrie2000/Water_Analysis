@@ -17,7 +17,6 @@ The application has used MySQL and PHP for user database creation and management
 Technology Stack:
 
 Frontend : HTML, CSS, Javascript Backend: Tableau, API, MySQL, PHP, Mapbox, Bootstrap 5
-![image](https://github![238176163-564da16d-a26c-4b29-9aa8-27b2f3685d2c](https://github.com/cherrie2000/Water_Analysis/assets/83605900/8a2d0f81-b3fb-40e7-8c90-a8b2cb3103b8)
-.com/cherrie2000/Water_Analysis/assets/83605900/f0235c7d-ec32-4554-8af2-6bb2602079c9)
+
 
 https://drive.google.com/drive/folders/1bNA-tN8uUkw0HNL5Q-rbcX6_TzpJgfiV?usp=sharing
